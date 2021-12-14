@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'iconfont';  /* Project id 3007873 */
+  src: url('//at.alicdn.com/t/font_3007873_1nadar1mmre.woff2?t=1639356148419') format('woff2'),
+       url('//at.alicdn.com/t/font_3007873_1nadar1mmre.woff?t=1639356148419') format('woff'),
+       url('//at.alicdn.com/t/font_3007873_1nadar1mmre.ttf?t=1639356148419') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fenxiang:before {
+  content: "\e600";
+}
+

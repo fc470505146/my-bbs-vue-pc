@@ -1,0 +1,16 @@
+{
+  "id": "3007873",
+  "name": "bbs",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "159932",
+      "name": "search",
+      "font_class": "fenxiang",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
